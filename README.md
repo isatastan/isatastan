@@ -1,1 +1,1 @@
-![](https://komarev.com/ghvc/?username=isatastan&label=Profile%20views&color=007ec6&style=flat)
+![](https://img.shields.io/github/search/0283/0283/isatastan?color=007ec6&label=Profile%20views)
