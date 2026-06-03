@@ -1,1 +1,1 @@
-![](https://img.shields.io/github/search/0283/0283/isatastan?color=007ec6&label=Profile%20views)
+<img src="https://komarev.com/ghvc/?username=isatastan&label=Profile+views&color=007ec6&style=flat" alt="isatastan" />
