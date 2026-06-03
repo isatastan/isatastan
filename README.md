@@ -1,1 +1,1 @@
-![Profil Ziyaretçisi](https://komarev.com/ghvc/?username=isatastan&color=blue&style=flat-square)
+![](https://komarev.com/ghvc/?username=isatastan&label=Profile%20views&color=007ec6&style=flat)
