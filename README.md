@@ -1,3 +1,1 @@
-<a href="https://discord.com/users/1105562404861001798">
-  <img src="https://lanyard.cnrad.dev/api/1105562404861001798" alt="Discord Status" width="400" />
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1105562404861001798)](https://discord.com/users/1105562404861001798)
