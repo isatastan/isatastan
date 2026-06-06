@@ -1,1 +1,1 @@
-![](https://img.shields.io/github/search/isatastan/isatastan/isatastan?color=007ec6&label=Profile%20views)
+https://discord.com/users/1105562404861001798
